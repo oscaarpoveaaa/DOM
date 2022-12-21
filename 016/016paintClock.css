@@ -1,0 +1,14 @@
+.horas {
+  color: orange;
+  font-size: 40px;
+}
+
+.minutos {
+  color: purple;
+  font-size: 40px;
+}
+
+.segundos {
+  color: blue;
+  font-size: 40px;
+}
